@@ -321,7 +321,7 @@ elif st.session_state.page == "Conclusion":
     st.title("🌟 Conclusion")
     st.write("""
     Yoga is more than just exercise; it is a holistic approach to well-being that harmonizes the mind, body, and spirit. 
-    Consistent practice can lead to profound improvements in your physical health, mental clarity, and spiritual growth.
+    Consistent practice can lead to profound improvements in your physical health, mental clarity, and spiritual growth .
 
     Start your journey today towards a balanced and healthier life with yoga!
     """)
