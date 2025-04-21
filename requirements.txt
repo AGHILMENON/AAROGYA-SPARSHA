@@ -1,0 +1,11 @@
+streamlit
+llama-index-core
+llama-index-readers-file
+langchain
+llama-index-embeddings-langchain
+transformers
+torch
+pillow
+platformdirs
+langchain-community
+sentence-transformers
